@@ -2,11 +2,11 @@
   "basics": {
     "name": "Shane Shimizu",
     "label": "Student",
-    "picture": "https://shaneksh.github.io/template/images/profile.png",
-    "email": "shaneksh@hawaii.edu",
-    "phone": "808-546-0643",
-    "website": "https://shaneksh.github.io",
-    "summary": "I am an undergradute studying for a B.B.A in Management Information Systems in the Shidler College of Business at the University of Hawaii Manoa. I expect to graduate in Spring, 2021.",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,44 +17,41 @@
     "profiles": [
       {
         "network": "github",
-        "username": "shaneksh",
-        "url": "http://github.com/shaneksh"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "change",
+        "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
-        "username": "change",
+        "username": "mollymal",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "change",
+        "username": "molly",
         "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "Data Analytics",
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "Cybersecurity",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Cloud Computing",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Networking",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -87,8 +84,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Spring, 2021)",
-      "studyType": "B.B.A",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
