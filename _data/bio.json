@@ -2,11 +2,11 @@
   "basics": {
     "name": "Shane Shimizu",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/profile.png",
+    "email": "shaneksh@hawaii.edu",
+    "phone": "808-546-0643",
+    "website": "https://shaneksh.github.io",
+    "summary": "I am an undergraduate studying for a B.B.A in Management Information Systems in the Shidler College of Business at the University of Hawaii Manoa. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,39 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "shaneksh",
+        "url": "http://github.com/shaneksh"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "",
         "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "",
         "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Data Analytics",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "CyberSecurity",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Cloud Computing",
       "keywords": [
       ]
     }
