@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Introduction Essay
+title: UI Basics Technical Blog
 date: 2019-09-16
 labels:
   - MIS
