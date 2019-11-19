@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: E4: Progress in Programming Report
-date: 2019-11-18
+title: E4 Progress In Programming Report
+date: 2019-09-16
 labels:
   - MIS
 ---
