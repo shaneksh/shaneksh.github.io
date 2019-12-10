@@ -53,5 +53,5 @@ Progress Dates: (put “x” when completed)
  
 # What progress have you made so far and what is left for you to do?
 
-We currently have finalized our idea of the webpage and will begin creating the web application. Since Kiara works for the business, she is familiar with the information that will be put on the site which will make the content easier to input. 
+We currently have finalized our idea of the webpage and will begin creating the web application. Since Kiara works for the business, she is familiar with the information that will be implemented on the site which will make the content easier to input. 
  
